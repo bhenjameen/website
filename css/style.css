@@ -19,8 +19,8 @@ body,
 .aboutmission {
    color: white;
    background-color: #3f51b5;
-   padding: 50px;
-   margin: 0;
+   padding: 20px;
+   margin: 0 4px 0 4px;
    border-radius: 50px 0 50px 0;
 }
 
@@ -170,25 +170,6 @@ section .section-title {
    border-radius: 50%;
 }
 
-
-
-@media (max-width: 740px) {
-
-   html,
-   body,
-   .view {
-      height: 1000px;
-   }
-}
-
-@media (min-width: 800px) and (max-width: 850px) {
-
-   html,
-   body,
-   .view {
-      height: 650px;
-   }
-}
 
 @media (min-width: 800px) and (max-width: 850px) {
    .navbar:not(.top-nav-collapse) {
